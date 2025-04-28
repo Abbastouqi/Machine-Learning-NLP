@@ -1,0 +1,276 @@
+🕒 Script Run on 2025-04-12 13:32:36
+📚 Welcome to the NLTK Query Experimentation
+🔁 Loading NLTK ...
+📂 Corpus Path: CORPUS
+📁 Processing Files:
+['Trial-January-11.txt', 'Trial-January-13.txt', 'Trial-January-24.txt', 'Trial-January-26.txt']
+⏳ Please wait ...
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 1
+
+📌 Corpus Text Length: 744,022
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 2
+
+📌 Tokens Found: 153,855
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 3
+
+📌 Calculating Vocabulary Size...
+📌 Vocabulary Size: 6,511
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 4
+
+🔍 Search Word: GUN
+📌 'GUN' occurred: 6 times
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 5
+
+🔍 Concordance for: GUN
+📌 Concordance Entries:
+Displaying 6 of 6 matches:
+ILD , AND TOLD HER OVER THE PHONE THAT HE HAD A GUN . AND WE KNOW OF COURSE THAT THE DEFENDANT HAS 
+ AND WE KNOW OF COURSE THAT THE DEFENDANT HAS A GUN COLLECTION . THAT OCCURS IN THE FACT PATTERN . 
+AND WE WATCHED HIM WITH A 15-INCH AFRO IN NAKED GUN 33-1/2 AND WE 'VE SEEN HIM TIME AND TIME AGAIN 
+OM THE BODY OF A VICTIM COULD BE MATCHED TO THE GUN THAT FIRED THE BULLET , THEY STARTED TO DISPOSE
+HE DEFENSE WITNESS LIST . SO MAYBE I JUMPED THE GUN ON THIS ONE , SHOULD STRIKE IT , AND HE SHOULD 
+IGHT ON TELEVISION , ONCE THE BULLET IS OUT THE GUN , YOU CA N'T GET IT BACK . * THE COURT : * YOU 
+
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 6
+
+🔍 Similar Words to: GUN
+court subpoena one person problem wall time motion evidence issue
+report call names facts side defense argument truth defendant witness
+
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 7
+
+🔍 Index of: GUN
+📌 First occurrence at position: 31449
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 8
+
+📌 Top Vocabulary Frequencies:
++-------+-------------+
+| Word  | Occurrences |
++-------+-------------+
+| THE   | 8319        |
+| ,     | 6920        |
+| .     | 6747        |
+| TO    | 4641        |
+| THAT  | 4125        |
+| AND   | 3712        |
+| OF    | 3400        |
+| *     | 2912        |
+| IS    | 2474        |
+| IN    | 2277        |
+| A     | 2113        |
+| I     | 1942        |
+| WE    | 1695        |
+| THIS  | 1665        |
+| IT    | 1610        |
+| :     | 1571        |
+| COURT | 1295        |
+| HE    | 1243        |
+| WAS   | 1202        |
+| YOU   | 1171        |
++-------+-------------+
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+
+========= 🧠 NLTK Query Options =========
+[1] Print Length of Corpus
+[2] Print Number of Token Found
+[3] Print Vocabulary Size
+[4] Search for Word Occurrence
+[5] Generate Concordance
+[6] Generate Similarities
+[7] Print Word Index
+[8] Print Vocabulary
+[0] Exit NLTK Experimentation
+==========================================
+🟢 Selected Option: 0
+👋 Goodbye!
